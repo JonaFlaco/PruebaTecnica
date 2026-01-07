@@ -41,6 +41,7 @@ POroyecto para prueba tecnica
 - **Axios** - Cliente HTTP para peticiones API
 - **Vue CLI 5** - Herramientas de desarrollo
 - **ESLint + Prettier** - Linting y formateo de código
+- **Estilos** - Realizado con IA ChatGPT
 
 ## Requisitos
 
